@@ -21,7 +21,7 @@
 ### 💻 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,mongodb,mysql,c,cpp,python,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=react,mongodb,mysql,c,cpp,python,git,github,vscode,docker,html,css,js" />
 </p>
 
 ---
